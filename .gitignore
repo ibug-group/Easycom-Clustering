@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.vscode
+.idea
+*.pyc
+build
+dist
+*.egg-info
+./*.csv
+slurm*.out
+*.csv#
+.DS_Store
